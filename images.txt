@@ -5,5 +5,6 @@ xhofe/alist:latest
 rabbitmq:management
 redis:7.0
 6053537/portainer-ce
+corentinth/it-tools
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
