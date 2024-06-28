@@ -8,5 +8,6 @@ redis:7.0
 corentinth/it-tools
 v2ray/official
 mzz2017/v2raya
+lzklogic/ubuntu-java17:1.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
