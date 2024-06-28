@@ -7,7 +7,6 @@ redis:7.0
 6053537/portainer-ce
 corentinth/it-tools
 v2ray/official
-lzklogic/ubuntu-java17
 mzz2017/v2raya
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
