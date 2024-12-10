@@ -16,5 +16,6 @@ haishanh/yacd
 rabbitmq:3.13.4-management
 xhofe/alist:latest
 dgtlmoon/changedetection.io
+logicjake/webmonitor
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
