@@ -18,5 +18,6 @@ xhofe/alist:latest
 dgtlmoon/changedetection.io
 logicjake/webmonitor
 mayanghua/instock
+library/mariadb:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
